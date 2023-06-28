@@ -12,3 +12,6 @@ This project is a trading bot that utilizes technical analysis indicators to gen
 # SARMA200STOCHRSI
 
 This project is a trading bot implemented in Python using the Binance API. The bot uses technical indicators like SAR, MA, Stochastic RSI, and more to make trading decisions. It fetches real-time data from the Binance exchange, performs technical analysis on the data, and sends trading signals via Telegram.
+
+#BBRSI
+This script is a trading bot that uses the Binance API to implement a trading strategy based on the Bollinger Bands (BB) and Relative Strength Index (RSI) indicators. It fetches historical price data from Binance for various cryptocurrency symbols and calculates the BB and RSI values. Based on these values, it generates trading signals and sends them to a Telegram bot.
